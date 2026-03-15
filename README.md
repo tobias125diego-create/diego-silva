@@ -1,4 +1,4 @@
-# Olá 👋 Eu sou Diego Tobias
+# Olá 👋 Eu sou Diego Silva
 
 🎓 Estudante de tecnologia  
 💻 Aprendendo desenvolvimento e programação  
